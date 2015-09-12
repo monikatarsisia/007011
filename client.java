@@ -1,6 +1,8 @@
 // File Name client.java
 // compile in cmd "java client <ip> <port>"
 
+// test
+
 import java.net.*;
 import java.io.*;
 import java.util.Scanner;

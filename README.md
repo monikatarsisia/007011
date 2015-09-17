@@ -1,7 +1,7 @@
 II3160 Integrative Programming - Socket Programming
 A repository for all Integrative Programming Assignments of Monika Tarsisia Nangoi [18213007] and Rana Nugramahesa [18213011]
 
-# Exercise 1 
+# Assignment 1 - 2015/09/08
 Build a server application and a client application
 File :
 1) server.java
@@ -12,7 +12,7 @@ Scenario :
 -. Client sends any message to server
 -. Server receives the message
 
-# Exercise 2
+# Assignment 2 - 2015/09/15
 Build a server application that can send a file to client and a client application that can request a file from server based on list.
 File :
 1) FileServer.py

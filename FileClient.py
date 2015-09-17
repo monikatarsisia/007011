@@ -47,7 +47,6 @@ def chat_client():
 				data = s.recv(1024)
 				if data == "endoffile" :
 				    break
-				    break
 				else :
     		                    print('Receiving Data...')
 				    print('Data = ' + str(data))

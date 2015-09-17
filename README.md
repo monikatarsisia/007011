@@ -1,4 +1,5 @@
-II3160 Pemrograman Integratif - Socket Programming
+II3160 Integrative Programming - Socket Programming
+A repository for all Integrative Programming Assignments of Monika Tarsisia Nangoi [18213007] and Rana Nugramahesa [18213011]
 
 # Exercise 1 
 Build a server application and a client application

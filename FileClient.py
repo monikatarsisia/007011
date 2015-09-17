@@ -54,6 +54,7 @@ def chat_client():
 				    f.write(data)
 			f.close()
 			print('Successfully get the file')
+			print "Input your choice : "
 			break
 
 		    else:

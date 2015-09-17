@@ -14,7 +14,7 @@ File :
 Scenario :
 -. Server open connection
 -. Client connect to server
--. Server send list of file
--. Client request one of file on the list
+-. Server send list of file ([1] a.txt [2] b.txt [3] c.txt)
+-. Client request one of file on the list (1/2/3)
 -. Server sent file based on request
 -. Client receives the file and save it 

@@ -27,7 +27,7 @@ Scenario :
 -. Client receives the file and save it 
 
 # Assignment 3 - 2015/09/29
-Build a program that request a web page from web server, download the page, then parse/extract all hyperlinks that exist. Download all pages on those hyperlinks. The web page will be saved as dataOri.html.
+Build a program that request a web page from web server, download the page, then parse/extract all hyperlinks that exist. Download all pages on those hyperlinks. The web page will be saved as dataOri.html. The list of hyperlinks will be saved as hyperlinks.html. And the web page for each hyperlinks will be saved as data1.html, data2.html, data3.html, etc.
 File :
 1) Parsing.py
 2) BeautifulSoup.py

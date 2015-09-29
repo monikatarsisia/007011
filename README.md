@@ -25,3 +25,6 @@ Scenario :
 -. Client request one of file on the list (1/2/3)
 -. Server sent file based on request
 -. Client receives the file and save it 
+
+# Assignment 3 - 2015/09/29
+Build a program that request a web page from web server, download the page, then parse/extract all hyperlinks that exist. Download all pages on those hyperlinks. 

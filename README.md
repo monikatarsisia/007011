@@ -32,7 +32,7 @@ File :
 1) Parsing.py
 2) BeautifulSoup.py
 
-# Assignment 4 - 2015/10/23
+# Assignment 4 (Mid Term) - 2015/10/23
 A program that downloads all .jpg images from a webpage. Every image that is downloaded will automatically be backed up in another directory locally using rsync.
 File :
   img_downloader.sh

@@ -36,3 +36,11 @@ File :
 A program that downloads all .jpg images from a webpage. Every image that is downloaded will automatically be backed up in another directory locally using rsync.
 File :
   img_downloader.sh
+Scenario :
+-. Open the webpage
+-. Find all links with a .jpg format
+-. Download all the images
+-. Save the images to the current folder
+-. Sync the downloaded image to a folder named ‘back up’ and delete the source file
+-. While syncing, filter the files. Moved all the images (files with .jpg format) and    exclude the files with .sh format
+

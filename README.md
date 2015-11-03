@@ -44,3 +44,15 @@ Scenario :
 -. Sync the downloaded image to a folder named ‘back up’ and delete the source file
 -. While syncing, filter the files. Moved all the images (files with .jpg format) and    exclude the files with .sh format
 
+#Assignment 5 - 2015/11/03
+A SOAP (Simple Object Access Protocol) client and server application. Server application provide function that return string, return addition of two integer, and return data from database. Client application connect to server application and access each function in server application.
+File :
+  SOAP_Client.php
+  SOAP_Server.php
+Scenario :
+-. Prepare/run web server (Apache)
+-. Make sure the source code is in the right directory
+-. Run the web program to see if it’s working (SOAP_Client)
+-. Create a database using PHP MyAdmin
+-. Connect the database to the server
+-. Run the web program (SOAP_Client)
